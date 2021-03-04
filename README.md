@@ -8,6 +8,10 @@
 
 HTTP assertions made easy via [superagent](http://github.com/visionmedia/superagent).
 
+## Hackernoon Tutorial for your Perusal
+Check `https://hackernoon.com/api-testing-using-supertest-1f830ce838f1` 
+API testing using SuperTest
+
 ## About
 
 The motivation with this module is to provide a high-level abstraction for testing
